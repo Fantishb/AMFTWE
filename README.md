@@ -71,6 +71,11 @@ available at url: [https://www.mdpi.com/2078-2489/12/1/20#cite]
 
 [19] Bojanowski P.; Grave E.; Joulin A. and Mikolov T. Enriching word vectors with subword information, TACL 2017, 5, pp.135-146, DOI: 10.1162/tacl_a_00051.
 
-# Download : the embedding files will be uploaded soon
+# Download : 
+300d .vec
+https://drive.google.com/file/d/1YPyQ4xS7BOPBeqNrhgMY71Eylkr6b4D7/view?usp=sharing
+
+200d .vec
+https://drive.google.com/file/d/1tSf6YurTxcqtuE8sC9l-L22GWDvbrMvE/view?usp=drive_link
 
 
